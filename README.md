@@ -1,2 +1,2 @@
 # TCS-HumanAn
-Jupyter Notebooks of implementation of SARIMA
+Jupyter Notebooks of my proposed solution.
